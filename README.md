@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# Aplicativo Prime-Film. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![01](https://user-images.githubusercontent.com/45512256/230659952-43b947ef-96e0-4306-9145-0cc9774527ff.png)
 
-## Available Scripts
 
-In the project directory, you can run:
+Esse aplicativo mostra os filmes que estão em cataz. As funções do aplicativo são as seguintes:
+- Ver a sinopse do filme.
+- Ver a pontuação
+- Um botão que leva ao trilher do filme caso queira assitir. 
 
-### `npm start`
+![Captura de tela 2023-04-07 154442](https://user-images.githubusercontent.com/45512256/230661485-b82c4797-def8-481a-a2b8-05792a94f8c8.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- salvar os seus filmes preferidos.
 
-### `npm test`
+![Captura de tela 2023-04-07 154940](https://user-images.githubusercontent.com/45512256/230661737-211120ec-359f-41e3-b7ce-c1ec7d35149d.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Tecnologias Utilizadas.
+Na construção do aplicativo foi utilizado a biblioteca React, para fazer o front-end. Já na busca das informações foi consumido a api publica (the movie DB). 
